@@ -1,12 +1,9 @@
-<h1 align="center">Hi, I'm Ali</h1>
+<h1 align="center">
+    Hi, I'm Ali 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
+
 <h3 align="center">A Mobile Developer 👨 </h3>
-
-<!-- <div align="center">
-<h3>Spotify Now Playing 🎧</h3>
-
-[![Spotify](https://spotify-now-playing-grvctczyq.vercel.app/api/spotify)](https://open.spotify.com/user/8va6cs1o44tff5ww9m12sh2ao)
-
-</div> -->
 
 - 🤓 &nbsp; I like React Native and still learning 💻
 - 🤓 &nbsp; Curious to learn Frontend Development 💻
@@ -26,5 +23,4 @@
 [![Twitter: Ali Ergeçer](https://img.shields.io/twitter/url?label=Ali%20Ergecer&style=social&url=https://twitter.com/aliergcr)](https://twitter.com/aliergcr)
 [![Gmail Badge](https://img.shields.io/badge/-Ali%20Ergecer-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:aliergcr@gmail.com)
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+---
