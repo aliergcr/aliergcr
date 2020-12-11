@@ -13,15 +13,15 @@
 
 ### 📫 &nbsp; You can reach me
 
-[![Linkedin: Ali ERGEÇER](https://img.shields.io/badge/-T.Safa%20Elmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-erge%C3%A7er-bb848b6b/)](https://www.linkedin.com/in/ali-erge%C3%A7er-bb848b6b/)
-[![Twitter: AliErgcr](https://img.shields.io/twitter/url?label=Ali%20Ergecer&style=social&url=https://twitter.com/aliergcr)](https://twitter.com/SafaElmali)
+[![Linkedin: Ali Ergeçer](https://img.shields.io/badge/-Ali%20Ergecer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-erge%C3%A7er-bb848b6b/)](https://www.linkedin.com/in/ali-erge%C3%A7er-bb848b6b/)
+[![Twitter: Ali Ergeçer](https://img.shields.io/twitter/url?label=Ali%20Ergecer&style=social&url=https://twitter.com/aliergcr)](https://twitter.com/aliergcr)
 [![Gmail Badge](https://img.shields.io/badge/-Ali%20Ergecer-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsafaelmali@gmail.com)](mailto:aliergcr@gmail.com)
 
 ### Languages and Tools:
 
 <code><img height="30" src="./assets/js.png">JavaScript</code></br>
-<code><img height="30" src="./assets/js.png">React Native</code></br>
-<code><img height="30" src="./assets/js.png">React Native</code></br>
+<code><img height="30" src="./assets/rn.svg">React Native</code></br>
+<code><img height="30" src="./assets/reactjs.svg.png">React JS</code></br>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
