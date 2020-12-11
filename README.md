@@ -2,13 +2,24 @@
     Hi, I'm Ali 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
+</br></br>
 
-<h3 align="center">A Mobile Developer 👨 </h3>
+
+<h3 align="center">A Mobile Developer 👨 </h3></br>
+
 <p align="justify">
-  <a href='https://findmentor.network/peer/cagatay-cali'>
+  <a href='https://findmentor.network'>
     <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
   <a/>
 </p>
+    </br>
+<a align="justify" href='https://play.google.com/store/apps/details?id=com.e_magazine&hl=tr'>
+    Here is my first app Aselsan Dergi  
+    <img height="50px"  src="https://play-lh.googleusercontent.com/R9I5nDiE22hJPvhDdoQFvKz0IYHF6jbHCkaeLTraL35u4NUuqY-2vAlMSr9Hel_C7fe1=s360-rw"> 
+  <a/>
+</br>
+
+
 
 - 🤓 &nbsp; I like React Native and still learning 💻
 - 🤓 &nbsp; Curious to learn Frontend Development 💻
