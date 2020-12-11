@@ -22,10 +22,8 @@
 <code><img height="30" src="./assets/js.png">JavaScript</code></br></br>
 <code><img height="30" src="./assets/rn.svg">React Native</code></br></br>
 <code><img height="30" src="./assets/reactjs.svg">React JS</code></br></br>
-<code><img height="30" src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg">HTML</code></br></br>
-<code><img height="30" src="https://tr.wikipedia.org/wiki/Dosya:CSS3_logo_and_wordmark.svg">Css</code></br></br>
+<code><img height="30" src="./assets/html.png">HTML</code></br></br>
+<code><img height="30" src="./assets/css.png">CSS</code></br></br>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
----
