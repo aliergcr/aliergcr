@@ -13,11 +13,11 @@
   <a/>
 </p>
     </br>
-<a align="justify" href='https://play.google.com/store/apps/details?id=com.e_magazine&hl=tr'>
-    Here is my first app Aselsan Dergi  
+ <a align="justify" href='https://play.google.com/store/apps/details?id=com.e_magazine&hl=tr'>
+     - 📱 Here is my first app Aselsan Dergi  
     <img height="50px"  src="https://play-lh.googleusercontent.com/R9I5nDiE22hJPvhDdoQFvKz0IYHF6jbHCkaeLTraL35u4NUuqY-2vAlMSr9Hel_C7fe1=s360-rw"> 
   <a/>
-</br>
+</br></br>
 
 
 
