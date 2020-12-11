@@ -22,6 +22,8 @@
 <code><img height="30" src="./assets/js.png">JavaScript</code></br></br>
 <code><img height="30" src="./assets/rn.svg">React Native</code></br></br>
 <code><img height="30" src="./assets/reactjs.svg">React JS</code></br></br>
+<code><img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F1200px-HTML5_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&tbnid=Bq4WTYc6O16thM&vet=12ahUKEwju2YqF5cXtAhUNihoKHUTYCVIQMygAegUIARCsAQ..i&docid=1Ted8cCjatfjsM&w=1200&h=1200&itg=1&q=html&ved=2ahUKEwju2YqF5cXtAhUNihoKHUTYCVIQMygAegUIARCsAQ">HTML</code></br></br>
+<code><img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FCSS3_logo_and_wordmark.svg%2F1200px-CSS3_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FCSS&tbnid=CQe3fY7nNccEWM&vet=12ahUKEwiO9bOt5cXtAhVPgRoKHYntBnIQMygAegUIARCpAQ..i&docid=mSCXBJX_RfvfIM&w=1200&h=1693&q=css&ved=2ahUKEwiO9bOt5cXtAhVPgRoKHYntBnIQMygAegUIARCpAQ">Css</code></br></br>
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
