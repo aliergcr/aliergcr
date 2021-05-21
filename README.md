@@ -14,10 +14,11 @@
 - 🤓 &nbsp; 📱 Here is my app E-Mag
    </br>
  <a align="justify" href='https://apps.apple.com/us/app/e-mag/id1567868793#?platform=iphone'>
-     <img alt="Get it on Google Play"
-        height="80"
-        src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" />
+     <img alt="Download From App Store"
+        height="60"
+        src="./assets/AppStoreBadge.png" />
   <a/>
+     </br>
   <a align="justify" href='https://play.google.com/store/apps/details?id=com.orsatramola.emagazine'>
        <img alt="Get it on Google Play"
         height="80"
