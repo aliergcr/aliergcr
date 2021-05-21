@@ -11,9 +11,17 @@
   <a/>
 </p>
    </br>
- <a align="justify" href='https://play.google.com/store/apps/details?id=com.e_magazine&hl=tr'>
-     - 📱 Here is my first app Aselsan Dergi  
-    <img height="50px"  src="https://play-lh.googleusercontent.com/R9I5nDiE22hJPvhDdoQFvKz0IYHF6jbHCkaeLTraL35u4NUuqY-2vAlMSr9Hel_C7fe1=s360-rw"> 
+- 🤓 &nbsp; 📱 Here is my app E-Mag
+   </br>
+ <a align="justify" href='https://apps.apple.com/us/app/e-mag/id1567868793#?platform=iphone'>
+     <img alt="Get it on Google Play"
+        height="80"
+        src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" />
+  <a/>
+  <a align="justify" href='https://play.google.com/store/apps/details?id=com.orsatramola.emagazine'>
+       <img alt="Get it on Google Play"
+        height="80"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
   <a/>
 
 ---
